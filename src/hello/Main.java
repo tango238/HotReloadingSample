@@ -35,8 +35,6 @@ public class Main {
 			
 			System.out.println("<<<");
 			System.out.println();
-			// Dispose
-			Thread.currentThread().setContextClassLoader(null);
 		}
 	}
 }
